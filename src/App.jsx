@@ -15,7 +15,7 @@ function App() {
         <main className='grow text-gray-600'>
           <AppRoutes />
         </main>
-        <footer className='p-5'>
+        <footer className='p-5 bg-amber-50 m-5'>
           <Footer/>
         </footer>
       </div>
