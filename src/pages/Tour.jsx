@@ -1,9 +1,8 @@
 import React from 'react'
-    function Tour() {
-  return (
-    <div className='m-4'>   
 
-    </div>
+function Tour() {
+  return (
+    <div>Tour</div>
   )
 }
 
